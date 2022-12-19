@@ -19,7 +19,7 @@ Self-taught web designer and developer, I aim full stack skills.
 - 🔭 I’m currently working on PHP modules
 - 🌱 I’m currently learning php, css, html, and soon js
 - 👯 I’m looking for good links to learn
-- 💬  Love webdesign and doing sites
+- 💬  See my resume on Plesk: https://nadia-hazem.students-laplateforme.io/
 - 📫 How to reach me: nadia.hazem@laplateforme.io
 - 😄 Totally self-taught in web design and code
 - ⚡ See my WordPress: https://pictelle.com
