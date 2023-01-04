@@ -4,7 +4,7 @@
 - <a href="https://laplateforme.io/"><img src="https://github.com/nadia-hazem/nadia-hazem/logo_laplateforme.png">La Plateforme"</a> in Marseille.
 <br>
 <p style="display:inline">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/pictelle/)">
+  <a href="[https://www.linkedin.com/in/pictelle/](https://skillicons.dev)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="[https://skillicons.dev](https://github.com/nadia-hazem/)">
