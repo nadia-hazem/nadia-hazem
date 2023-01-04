@@ -9,3 +9,7 @@
 - 😄 Totally self-taught in web design and currently in developer training at "La Plateforme" in Marseille.
 - ⚡ See my WordPress: https://pictelle.com
 -->
+<br>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,php,mysql,js,py,shell)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,ai,ps,vscode,figma,wordpress)](https://skillicons.dev)
