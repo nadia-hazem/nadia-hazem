@@ -1,7 +1,7 @@
 - Hi there 👋
 - I'm Nadia Hazem
 - 😄 Totally self-taught in web design and currently in developer training at 
-- <a href="https://laplateforme.io/"><img src="">La Plateforme"</a> in Marseille.
+- <a href="https://laplateforme.io/"><img src="https://github.com/nadia-hazem/nadia-hazem/logo_laplateforme.png">La Plateforme"</a> in Marseille.
 <br>
 <p style="display:inline">
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/pictelle/)">
