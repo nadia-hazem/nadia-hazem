@@ -6,6 +6,6 @@
 - 👯 I’m looking for good links to learn
 - 💬  See my resume on Plesk: https://nadia-hazem.students-laplateforme.io/
 - 📫 How to reach me: nadia.hazem@laplateforme.io
-- 😄 Totally self-taught in web design and code
+- 😄 Totally self-taught in web design and currently in developer training at "La Plateforme" in Marseille.
 - ⚡ See my WordPress: https://pictelle.com
 -->
