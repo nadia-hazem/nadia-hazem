@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadia-hazem&label=Profile%20views&color=0e75b6&style=flat" alt="nadia-hazem" /> </p>
 
-- 🔭 I’m currently working on **PHP Modules**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
 
