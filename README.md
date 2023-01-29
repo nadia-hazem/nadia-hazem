@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
+- 🌱 I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
 
 - 👨‍💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)**
 
