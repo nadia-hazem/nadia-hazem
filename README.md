@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
 
-- 👨‍💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)**
+- 💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)**
 
 - 📫 How to reach me **nadia.hazem@laplateforme.io**
 - :round_pushpin: <a href="https://pictelle.com">**My wordpress**</a>
