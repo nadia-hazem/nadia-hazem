@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/cd62fb562d5acfb89144a6580e51d3ea575a446c/keyboard.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/c1609d09eaef55bced7006cf96b3017535787b9c/female-developer.gif" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Nadia Hazem</h1>
 <h3 align="center">A passionate frontend developer from Marseille, France</h3>
