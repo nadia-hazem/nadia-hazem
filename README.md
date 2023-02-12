@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on **JavaScript** | ![code is fun](https://github.com/nadia-hazem/nadia-hazem/blob/99909761b151360d74371a5cfab7fba0c4384819/code-fun.gif)
 
-- :earth_africa: I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
+- :earth_africa: I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...** |
 
-- 💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)**
+- 💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)** |
 
-- 📫 How to reach me **nadia.hazem@laplateforme.io**
-- :round_pushpin: <a href="https://pictelle.com">**Visit my wordpress**</a>
+- 📫 How to reach me **nadia.hazem@laplateforme.io** |
+- :round_pushpin: <a href="https://pictelle.com">**Visit my wordpress**</a> |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
