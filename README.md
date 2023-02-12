@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadia-hazem&label=Profile%20views&color=0e75b6&style=flat" alt="nadia-hazem" /> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **JavaScript** | ![code is fun](https://github.com/nadia-hazem/nadia-hazem/blob/99909761b151360d74371a5cfab7fba0c4384819/code-fun.gif)
 
 - :earth_africa: I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...**
 
