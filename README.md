@@ -90,12 +90,12 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
   </td>
 
-  <td>        
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
-<img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/lr.png" alt="Lightroom">
-<img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/wordpress.png" alt="WordPress">
-<img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" alt="Divi">
+  <td>
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ps.png" alt="Photoshop">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/lr.png" alt="Illustrator">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/lr.png" alt="Lightroom">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/wordpress.png" alt="WordPress">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" alt="Divi">
 
  
   </td>
