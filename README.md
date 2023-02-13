@@ -77,8 +77,6 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  </tr>
 </table>
 
-  ![woman in code](https://github.com/nadia-hazem/nadia-hazem/blob/26819f36431422149550d0a4aa396dee207724ac/woman-in-tech.gif)
-
 <table align="center">
   <tr>
     <th>:abcd: Languages</th>
