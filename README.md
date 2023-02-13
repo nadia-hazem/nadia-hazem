@@ -98,6 +98,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
       <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+       <a href="https://code.visualstudio.com/"> <img src="https://github.com/nadia-hazem/nadia-hazem/blob/55c986e4706d0b67b6a050cd45591330312f899f/vscode.png" alt="VsCode" width="40" height="40"/> </a>
 
   </td>
 
