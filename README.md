@@ -1,7 +1,7 @@
 ![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/7e281b896ee7c5919c9ba7a803778d55fd7c42ee/banner.png)
 
 <div align="center">
-<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/519337a37b4e845905148bf7e58922e747055fbd/female-dev.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/fde6ea0ccac01882f1f4c2db251cd2f78d591274/keyboard.gif" alt="cover" />
 
  
 <div align="center">
