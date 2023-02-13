@@ -132,10 +132,10 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
 ***
 
-# <a href="https://nadia-hazem.students-laplateforme.io/#" target="_blanck">:eye: Visit my portfolio & resume</a>
+# <a href="https://nadia-hazem.students-laplateforme.io/#" target="_blank">:eye: Visit my portfolio & resume</a>
 
-# <a href="https://pictelle.com" target="_blanck">:earth_africa: Visit my personal site WP</a>
+# <a href="https://pictelle.com" target="_blank">:earth_africa: Visit my personal site WP</a>
 
-# <a href="https://www.linkedin.com/in/pictelle/" target="_blanck">:link: Add me on LinkedIn</a>
+# <a href="https://www.linkedin.com/in/pictelle/" target="_blank">:link: Add me on LinkedIn</a>
 
 
