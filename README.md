@@ -1,7 +1,7 @@
-<h1 align="center" width="300"> Web Developer </h1>
+![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/7e281b896ee7c5919c9ba7a803778d55fd7c42ee/banner.png)
 
 <div align="center">
-<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/c1609d09eaef55bced7006cf96b3017535787b9c/female-developer.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/519337a37b4e845905148bf7e58922e747055fbd/female-dev.gif" alt="cover" />
 
  
 <div align="center">
@@ -54,6 +54,10 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadia-hazem&label=Profile%20views&color=0e75b6&style=flat" alt="nadia-hazem" /> </p>
 
+<table>
+ <tr>
+  <td>
+  
 - 🔭 I’m currently working on **JavaScript**  
 
 - 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...** 
@@ -63,6 +67,15 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 - 📫 How to reach me **nadia.hazem@laplateforme.io** 
 
 - 🌍 <a href="https://pictelle.com">**Visit my wordpress**</a> 
+   
+  </td>
+  <td>
+   
+   ![Let's code](https://github.com/nadia-hazem/nadia-hazem/blob/255fbd76505f016556b5e883037159ceec3c2428/sayyestocode.gif)
+   
+  </td>
+ </tr>
+</table>
 
   ![woman in code](https://github.com/nadia-hazem/nadia-hazem/blob/26819f36431422149550d0a4aa396dee207724ac/woman-in-tech.gif)
 
@@ -103,7 +116,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 </table>
 
 ## :chart_with_upwards_trend: Stats
-<table>
+<table align="center">
  <tr>
   <td>
    
