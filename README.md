@@ -71,7 +71,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   </td>
   <td>
    
-   ![Let's code](https://github.com/nadia-hazem/nadia-hazem/blob/255fbd76505f016556b5e883037159ceec3c2428/sayyestocode.gif)
+   ![Let's code](https://github.com/nadia-hazem/nadia-hazem/blob/6934f652a38ae0935b671d4a52de4f36edf0e92d/sleep-code.gif)
    
   </td>
  </tr>
@@ -124,6 +124,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  <td>
   
   <img src="https://github-readme-stats.vercel.app/api?username=nadia-hazem&show_icons=true&locale=en" alt="nadia-hazem">
+
   
   </td>
  </tr>
@@ -131,5 +132,10 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
 ***
 
+# <a href="https://nadia-hazem.students-laplateforme.io/#">:eye: Visit my portfolio & resume</a>
+
+# <a href="https://pictelle.com">:earth_africa: Visit my personal site WP</a>
+
+# <a href="https://www.linkedin.com/in/pictelle/">:link: Add me on LinkedIn</a>
 
 
