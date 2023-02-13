@@ -118,6 +118,11 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  <tr>
   <td>
    
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/f507646eab0af61f8e60e231e857fdafeecf9b94/code-fun.gif" width="300">
+   
+  </td>
+  <td>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-hazem)](https://github.com/nadia-hazem/github-readme-stats)
  
   </td>
