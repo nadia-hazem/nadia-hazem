@@ -103,11 +103,11 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   </td>
 
   <td>
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ps.png" alt="Photoshop">
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/lr.png" alt="Illustrator">
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/lr.png" alt="Lightroom">
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/wordpress.png" alt="WordPress">
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" alt="Divi">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ps.png" width="40" alt="Photoshop">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ai.png" width="40" alt="Illustrator">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/lr.png" width="40" alt="Lightroom">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/wordpress.png" width="40" alt="WordPress">
+   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
 
  
   </td>
