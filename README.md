@@ -1,4 +1,4 @@
-![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/7e281b896ee7c5919c9ba7a803778d55fd7c42ee/banner.png)
+![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/banner.png):female_sign:
 
 <div align="center">
 <img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/fde6ea0ccac01882f1f4c2db251cd2f78d591274/keyboard.gif" alt="cover" />
@@ -124,12 +124,12 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   </td>
   <td>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-hazem)](https://github.com/nadia-hazem/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-hazem&theme=maroongold)](https://github.com/nadia-hazem/github-readme-stats)
  
   </td>
  <td>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nadia-hazem&show_icons=true&locale=en" alt="nadia-hazem">
+  ![nadia-hazem GitHub stats](https://github-readme-stats.vercel.app/api?username=nadia-hazem&show_icons=true&theme=vision-friendly-dark)
 
   
   </td>
@@ -137,11 +137,22 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 </table>
 
 ***
-
+<table align="center">
+ <tr>
+  <td>
+   
 # <a href="https://nadia-hazem.students-laplateforme.io/#" target="_blank">:eye: Visit my portfolio & resume</a>
 
 # <a href="https://pictelle.com" target="_blank">:earth_africa: Visit my personal site WP</a>
 
 # <a href="https://www.linkedin.com/in/pictelle/" target="_blank">:link: Add me on LinkedIn</a>
 
-
+ </td>
+ <td>
+  
+  ![female coder](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/female-developer.gif)
+  
+  </td>
+ </tr>
+</table>
+   
