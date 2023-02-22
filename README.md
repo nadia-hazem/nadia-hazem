@@ -60,9 +60,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   
 - 🔭 I’m currently working on **JavaScript**  
 
-- :earth_africa: I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...**
-
-- 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Bootstrap...** 
+- 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...** 
 
 - 💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)** 
 
