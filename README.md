@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Welcome+to+my+GitHub;I+am+a+first+year+student+developer.)](https://git.io/typing-svg)
 
-![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/banner.png):female_sign:
+![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/banner.png)
 
 <div align="center">
 <img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/fde6ea0ccac01882f1f4c2db251cd2f78d591274/keyboard.gif" alt="cover" />
