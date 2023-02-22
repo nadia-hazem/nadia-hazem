@@ -83,7 +83,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
    <img src="https://skillicons.dev/icons?i=git,bootstrap,vscode,figma,linux" />
-      <img src="https://skillicons.dev/icons?i=ps,ai,li" />
+      <img src="https://skillicons.dev/icons?i=ps,ai,lr,wp,divi" />
   </a>
 </p>
 
