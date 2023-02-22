@@ -95,8 +95,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   </td>
 
   <td>
-    <img src="https://skillicons.dev/icons?i=ps,ai,lr,wordpress,divi" />
-    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
+    <img src="https://skillicons.dev/icons?i=ps,ai,lr,wordpress" /><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
   </td>
  </tr>
 </table>
