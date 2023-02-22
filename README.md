@@ -79,47 +79,24 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  </tr>
 </table>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
-   <img src="https://skillicons.dev/icons?i=git,bootstrap,vscode,figma,linux" />
-      <img src="https://skillicons.dev/icons?i=ps,ai,lr,wp,divi" />
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <th>:abcd: Languages</th>
     <th>:hammer_and_wrench: Tools</th>
     <th>:spider_web: Logs</th>
  </tr>
-
  <tr>
   <td>
-    <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>  
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql" />
   </td>
 
   <td>
-      <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-       <a href="https://code.visualstudio.com/"> <img src="https://github.com/nadia-hazem/nadia-hazem/blob/55c986e4706d0b67b6a050cd45591330312f899f/vscode.png" alt="VsCode" width="40" height="40"/> </a>
-
+    <img src="https://skillicons.dev/icons?i=github,codepen,bootstrap,tailwind,vscode,figma,linux,aws" />
   </td>
 
   <td>
-    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ps.png" width="40" alt="Photoshop">
-    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/b12c411244e31b968b7e1b8094744dd75d0491e5/ai.png" width="40" alt="Illustrator">
-    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/lr.png" width="40" alt="Lightroom">
-    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/wordpress.png" width="40" alt="WordPress">
+    <img src="https://skillicons.dev/icons?i=ps,ai,lr,wordpress,divi" />
     <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
-
- 
   </td>
  </tr>
 </table>
