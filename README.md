@@ -64,7 +64,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
 - 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...** 
 
-- 💻 All of my projects are available at **[https://nadia-hazem.students-laplateforme.io](https://nadia-hazem.students-laplateforme.io)** 
+- 💻 All of my projects are available on my <a href="https://nadia-hazem.students-laplateforme.io">**Portfolio** </a>
 
 - 📫 How to reach me **nadia.hazem@laplateforme.io** 
 
