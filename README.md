@@ -87,15 +87,16 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  </tr>
  <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,bash,mysql" />
   </td>
 
   <td>
     <img src="https://skillicons.dev/icons?i=github,codepen,bootstrap,tailwind,vscode,figma,linux,aws" />
   </td>
 
-  <td>
-    <img src="https://skillicons.dev/icons?i=ps,ai,lr,wordpress" /><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
+   <td style="display:inline-block">
+    <img src="https://skillicons.dev/icons?i=ps,ai,wordpress" />
+    <img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/divi.png" width="40" alt="Divi">
   </td>
  </tr>
 </table>
