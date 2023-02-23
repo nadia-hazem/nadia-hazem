@@ -3,7 +3,7 @@
 ![WebDeveloper](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/banner.png)
 
 <div align="center">
-<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/fde6ea0ccac01882f1f4c2db251cd2f78d591274/keyboard.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/63b28adfd95922502335c9d15e45bfc021cfccdf/lofi.gif" alt="cover" />
 
  
 <div align="center">
