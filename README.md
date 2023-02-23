@@ -14,18 +14,10 @@
  
  [![Made with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![Powered by electricity](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com) :grin:
  
-<a href="https://www.linkedin.com/in/pictelle/" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/linkedin.png" width="40" title="LinkedIn"></a>
-<a href="https://nadia-hazem.students-laplateforme.io" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="40" title="Portfolio"></a>
- <a href="https://pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="40" title="Site perso WordPress"></a>
+<a href="https://www.linkedin.com/in/pictelle/" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/linkedin.png" width="30" title="LinkedIn"></a>
+<a href="https://nadia-hazem.students-laplateforme.io" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="30" title="Portfolio"></a>
+ <a href="https://pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="30" title="Site perso WordPress"></a>
  
- 
- 🗂️
- 
-
-@@ This is a purple colored line @@
-
-
-
 </div>
 
 :fr: 
