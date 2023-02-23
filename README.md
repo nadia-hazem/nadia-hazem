@@ -20,7 +20,7 @@
  
 </div>
 
-:fr:
+- :fr:
  
  ## Actuellement en recherche d'une alternance de développeuse web 
  ### 6 mois à compter de mars 2023
