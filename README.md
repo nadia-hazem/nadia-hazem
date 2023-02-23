@@ -16,6 +16,15 @@
 
 </div>
  
+ name: Pict'Elle
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
+ 
 ## Actuellement en recherche d'une alternance de développeuse web 
  ### 6 mois à compter de mars 2023
 Je suis une formation de **développeuse web** au Campus numérique *"La Plateforme_"* à Marseille.
