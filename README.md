@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm Nadia Hazem</h1>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=500&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
- 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=500&lines=Welcome+!+I+am+Nadia;A+passionate+frontend+developer)](https://git.io/typing-svg)
-
+ <h3 align="center">📪 Connect with me:
+<a href="https://linkedin.com/in/pictelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pictelle" height="30" width="40" /></a></h3>
 
 <div align="center">
 <img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/63b28adfd95922502335c9d15e45bfc021cfccdf/lofi.gif" alt="cover" />
@@ -48,13 +51,6 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   </td>
  </tr>
 </table>
-
-<h1 align="center">Hi 👋, I'm Nadia Hazem</h1>
-<h3 align="center">A passionate frontend developer from Marseille, France</h3>
-
- <h3 align="center">📪 Connect with me:
-<a href="https://linkedin.com/in/pictelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pictelle" height="30" width="40" /></a></h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadia-hazem&label=Profile%20views&color=0e75b6&style=flat" alt="nadia-hazem" /> </p>
 
