@@ -20,7 +20,8 @@
  
 </div>
 
- 🔎 ## Actuellement en recherche d'une alternance de développeuse web 
+ 🔎 
+ ## Actuellement en recherche d'une alternance de développeuse web 
  ### 6 mois à compter de mars 2023
 Je suis une formation de **développeuse web** au Campus numérique *"La Plateforme_"* à Marseille.
  pour un titre RNCP 5 (BTS)
