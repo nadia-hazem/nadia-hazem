@@ -81,7 +81,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
   <tr>
     <th>:abcd: Languages</th>
     <th>:hammer_and_wrench: Tools</th>
-    <th>:spider_web: Logs</th>
+    <th>:spider_web: Softs</th>
  </tr>
  <tr>
   <td>
