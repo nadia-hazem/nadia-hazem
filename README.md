@@ -31,15 +31,14 @@
  <tr>
   <td>
 
+- Start web formation web developer (9 mois)
 - StartStarter formation IT générale (3 mois)
 - formation AWS services amazon (3 mois)
 
   </td>
   <td>
 
-   - CAPA Espaces verts
-   - Formation 2 mois Suite Microsoft
-   - Autodidacte HTML, Wordpress, Divi, Html, Css 
+- Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl... 
    
   </td>
  </tr>
