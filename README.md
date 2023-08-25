@@ -15,16 +15,9 @@
  [![Made with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![Powered by electricity](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com) :grin:
  
 <a href="https://www.linkedin.com/in/pictelle/" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/linkedin.png" width="30" title="LinkedIn"></a>
-<a href="https://nadia-hazem.students-laplateforme.io" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="30" title="Portfolio"></a>
+<a href="https://portfolio.pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="30" title="Portfolio"></a>
  <a href="https://pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="30" title="Site perso WordPress"></a>
  
-</div>
-
- 🔎 
- ## Actuellement en recherche d'une alternance de développeuse web 
- ### 6 mois à compter de mars 2023
-Je suis une formation de **développeuse web** au Campus numérique *"La Plateforme_"* à Marseille.
- pour un titre RNCP 5 (BTS)
 </div>
 
 <table align="center">
@@ -62,11 +55,11 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
 
 - 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...** 
 
-- 💻 All of my projects are available on my <a href="https://nadia-hazem.students-laplateforme.io">**Portfolio** </a>
+- 💻 All of my projects are available on my <a href="https://portfolio.pictelle.com">**Portfolio** </a>
 
-- 📫 How to reach me **nadia.hazem@laplateforme.io** 
+- 📫 How to reach me **contact@pictelle.com** 
 
-- 🌍 <a href="https://pictelle.com">**Visit my wordpress**</a> 
+- 🌍 <a href="https://pictelle.com">**Visit my site**</a> 
    
   </td>
   <td>
@@ -125,7 +118,7 @@ Je suis une formation de **développeuse web** au Campus numérique *"La Platefo
  <tr>
   <td>
    
-# <a href="https://nadia-hazem.students-laplateforme.io/#" target="_blank">:eye: Visit my portfolio & resume</a>
+# <a href="https://portfolio.pictelle.com/#" target="_blank">:eye: Visit my portfolio & resume</a>
 
 # <a href="https://www.linkedin.com/in/pictelle/" target="_blank">:link: Add me on LinkedIn</a>
 
