@@ -38,7 +38,7 @@
   </td>
   <td>
 
-- Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl... 
+Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl... 
    
   </td>
  </tr>
