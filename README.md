@@ -15,8 +15,8 @@
  [![Made with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![Powered by electricity](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com) :grin:
  
 <a href="https://www.linkedin.com/in/pictelle/" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/linkedin.png" width="30" title="LinkedIn"></a>
-<a href="https://portfolio.pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="30" title="Portfolio"></a>
- <a href="https://pictelle.com" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="30" title="Site perso WordPress"></a>
+<a href="https://pictelle.fr" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/resume.png" width="30" title="Portfolio"></a>
+ <a href="https://pictelle.fr" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="30" title="Site perso WordPress"></a>
  
 </div>
 
@@ -54,11 +54,11 @@ Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl...
 
 - 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...** 
 
-- 💻 All of my projects are available on my <a href="https://portfolio.pictelle.com">**Portfolio** </a>
+- 💻 All of my projects are available on my <a href="https://pictelle.fr">**Portfolio** </a>
 
-- 📫 How to reach me **contact@pictelle.com** 
+- 📫 How to reach me **contact@pictelle.fr** 
 
-- 🌍 <a href="https://pictelle.com">**Visit my site**</a> 
+- 🌍 <a href="https://pictelle.fr">**Visit my site**</a> 
    
   </td>
   <td>
