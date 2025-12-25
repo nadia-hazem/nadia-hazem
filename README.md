@@ -117,7 +117,7 @@ Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl...
  <tr>
   <td>
    
-# <a href="https://portfolio.pictelle.com/#" target="_blank">:eye: Visit my portfolio & resume</a>
+# <a href="https://pictelle.fr/#" target="_blank">:eye: Visit my portfolio & resume</a>
 
 # <a href="https://www.linkedin.com/in/pictelle/" target="_blank">:link: Add me on LinkedIn</a>
 
