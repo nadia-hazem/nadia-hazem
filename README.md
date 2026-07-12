@@ -4,6 +4,9 @@
 Creating thoughtful, elegant websites with **WordPress** when flexibility is key, and **tailored PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
+ ![Pictelle](/screenshot_Pictelle.png)
+
+
 + [About](#about)
 + [My tools](#my-tools)
 + [Featured work](#featured-work)
@@ -19,6 +22,8 @@ I craft fast, accessible, and easily manageable websites, blending the versatili
 
 Every creation is designed with longevity in mind—focusing on a seamless user experience and meticulous attention to detail.  
 Because I believe technology should support your ideas, never hinder them.
+
+ ![Digital craftmanship](/screenshot_2.png)
 
 ---
 
