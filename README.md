@@ -1,131 +1,73 @@
-<h1 align="center">Hi 👋, I'm Nadia Hazem</h1>
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&width=1000&lines=A+passionate+frontend+developer;a+self-taught+web+designer;and+forever+learner)](https://git.io/typing-svg)
+# Pictelle
 
- <h3 align="center">📪 Connect with me:
-<a href="https://linkedin.com/in/pictelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pictelle" height="30" width="40" /></a></h3>
+**Digital Craftsmanship — Custom Websites Made with Care**  
+Creating thoughtful, elegant websites with WordPress when flexibility is key, and tailored PHP solutions when a project deserves a tailor-made solution.  
+Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.
 
-<div align="center">
-<img width="100%" height = "500px" src="https://github.com/nadia-hazem/nadia-hazem/blob/63b28adfd95922502335c9d15e45bfc021cfccdf/lofi.gif" alt="cover" />
+---
 
- # Web Developer
- 
-<div align="center">
- 
- [![Made with love](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![Powered by electricity](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com) :grin:
- 
-<a href="https://www.linkedin.com/in/pictelle/" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/linkedin.png" width="30" title="LinkedIn"></a>
- <a href="https://pictelle.fr" target="_blank"><img src="https://github.com/nadia-hazem/nadia-hazem/blob/547f7e62999885f2f81a1027edef289ce15d699a/pictelle.png" width="30" title="Portfolio"></a>
- 
-</div>
+## About
 
-<table align="center">
- <tr>
-  <th>
-   :capital_abcd: Dernières formations
-  </th>
-  <th>
-   :cityscape: Background
- </tr>
- <tr>
-  <td>
+I’m Nadia, the developer behind Pictelle.  
+I craft fast, accessible, and easily manageable websites, blending the versatility of WordPress with custom PHP development for projects that deserve a truly bespoke solution.
 
-- Start web formation web developer (9 mois)
-- StartStarter formation IT générale (3 mois)
-- formation AWS services amazon (3 mois)
+Every creation is designed with longevity in mind—focusing on a seamless user experience and meticulous attention to detail.  
+Because I believe technology should support your ideas, never hinder them.
 
-  </td>
-  <td>
+---
 
-Autodidacte Wordpress, Divi, Html, Css, Js, Php, SQl... 
-   
-  </td>
- </tr>
-</table>
+## My Tools
+
+- PHP  
+- JavaScript  
+- HTML5  
+- CSS3  
+- MySQL  
+- WordPress  
+- Composer  
+- Git
+
+---
+
+## Featured Work
+
+### Portfolio
+
+A custom MVC-built portfolio showcasing:  
+- User authentication system  
+- Comprehensive admin dashboard  
+- Project management (CRUD)  
+- Image uploads  
+- Responsive design  
+- SEO-optimized architecture  
+- Modular JavaScript  
+- SVG component system
+
+More projects and reusable templates are on the way.
+
+---
+
+## Philosophy
+
+To me, good code is more than just functional.  
+It should remain understandable, elegant, scalable and enjoyable to maintain.
+While technology keeps evolving, thoughtful design, clean architecture, and attention to detail remain timeless essentials.
+
+---
+
+## Beyond the Code
+
+Outside of development, I find inspiration in design, photography, nature, and quiet places.
+These influences naturally shape my approach to building websites—clean, balanced, and focused on what truly matters.
+
+---
+
+## Building digital experiences with the same care as handcrafted work.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadia-hazem&label=Profile%20views&color=0e75b6&style=flat" alt="nadia-hazem" /> </p>
-
-<table>
- <tr>
-  <td>
-  
-- 🔭 I’m currently working on **JavaScript**  
-
-- 🧮 I’m learning **HTML, CSS, PHP, SQL, JS, Python, Bootstrap...** 
-
-- 💻 All of my projects are available on my <a href="https://pictelle.fr">**Portfolio** </a>
-
-- 📫 How to reach me **contact@pictelle.fr** 
-
-- 🌍 <a href="https://pictelle.fr">**Visit my site**</a> 
-   
-  </td>
-  <td>
-   
    ![Let's code](https://github.com/nadia-hazem/nadia-hazem/blob/6934f652a38ae0935b671d4a52de4f36edf0e92d/sleep-code.gif)
-   
-  </td>
- </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <th>:abcd: Languages</th>
-    <th>:hammer_and_wrench: Tools</th>
-    <th>:spider_web: Softs</th>
- </tr>
- <tr>
-  <td>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,bash,mysql" />
-  </td>
-
-  <td>
-    <img src="https://skillicons.dev/icons?i=github,codepen,bootstrap,tailwind,vscode,figma,linux,aws" />
-  </td>
-
-   <td style="display:inline-block">
-    <img src="https://skillicons.dev/icons?i=ps,ai,wordpress" />
-  </td>
- </tr>
-</table>
-
-## :chart_with_upwards_trend: Stats
-<table align="center">
- <tr>
-  <td>
-   
-   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/f507646eab0af61f8e60e231e857fdafeecf9b94/code-fun.gif" width="300">
-   
-  </td>
-  <td>
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-hazem&theme=maroongold)](https://github.com/nadia-hazem/github-readme-stats)
- 
-  </td>
- <td>
-  
-  ![nadia-hazem GitHub stats](https://github-readme-stats.vercel.app/api?username=nadia-hazem&show_icons=true&theme=vision-friendly-dark)
-
-  
-  </td>
- </tr>
-</table>
-
-***
-<table align="center">
- <tr>
-  <td>
-   
-# <a href="https://pictelle.fr/#" target="_blank">:eye: Visit my portfolio & resume</a>
-
+# <a href="https://pictelle.fr">**Visit my site**</a> 
 # <a href="https://www.linkedin.com/in/pictelle/" target="_blank">:link: Add me on LinkedIn</a>
 
- </td>
- <td>
-  
-  ![female coder](https://github.com/nadia-hazem/nadia-hazem/blob/9fd51b978b21d37d793a49cfb799b7bf7976e2c3/female-developer.gif)
-  
-  </td>
- </tr>
-</table>
-   
