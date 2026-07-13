@@ -1,5 +1,4 @@
 <p align="left">
-  <img src="logo.png" alt="Logo" width="45" style="vertical-align: middle">&nbsp;&nbsp;
   <img src="title_pictelle.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
 </p>
 
@@ -58,19 +57,36 @@ Because I believe technology should support your ideas, never hinder them.
 
 ### Portfolio
 
-A custom MVC-built portfolio showcasing:  
-- User authentication system  
-- Comprehensive admin dashboard  
-- Project management (CRUD)  
-- Image uploads  
-- Responsive design  
-- SEO-optimized architecture  
-- Modular JavaScript  
-- SVG component system
+<div align="center">
+   
+  <table>
+     <tr>
+        <td>   
+          A custom MVC-built portfolio showcasing:  
+          - User authentication system  
+          - Comprehensive admin dashboard  
+          - Project management (CRUD)  
+          - Image uploads  
+          - Responsive design  
+          - SEO-optimized architecture  
+          - Modular JavaScript  
+          - SVG component system
+          <h3>
+            Building digital experiences with the same care as handcrafted work.
+          </h3>
+        </td>
+       <td>
+         <img src="melting_set.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
+       </td>
+     </tr>
+  </table>
 
-Additional templates and demonstration projects are currently in development.
-
+</div>
+  
+***Additional templates and demonstration projects are currently in development.
+    
 ---
+
 
 ## Philosophy
 
