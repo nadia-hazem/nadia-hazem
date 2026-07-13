@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="images/logo.png" alt="Logo" width="50" style="vertical-align: middle;">
-  <span style="font-size: 4em; vertical-align: middle; color: #5D8AA8"> Pictelle</span>
+  <img src="logo.png" alt="Logo" width="45" style="vertical-align: middle">&nbsp;&nbsp;
+  <img src="title_pictelle.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
 </p>
 
 ## **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
