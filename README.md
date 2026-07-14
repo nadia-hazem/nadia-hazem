@@ -3,7 +3,7 @@
 </p>
 
 ## **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
-Creating thoughtful, elegant websites with **WordPress** when flexibility is key, and **custom PHP** solutions when a project deserves a tailor-made solution.  
+Creating thoughtful, elegant websites with **WordPress** when flexibility matters, and **custom PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
 
@@ -21,7 +21,7 @@ Creating thoughtful, elegant websites with **WordPress** when flexibility is key
 ## About
 
 > I’m Nadia, the developer behind Pictelle.  
-I craft fast, accessible, and eeasy-to-manage websites, blending the versatility of WordPress with custom PHP development for projects that deserve a truly bespoke solution.
+I craft fast, accessible, and easy-to-manage websites, blending the versatility of WordPress with custom PHP development for projects built from the ground up.
 
 Every project is designed with longevity in mind—focusing on a seamless user experience and meticulous attention to detail.  
 Because I believe technology should support your ideas, never hinder them.
@@ -55,35 +55,40 @@ Because I believe technology should support your ideas, never hinder them.
 
 ## Featured Work
 
-### Portfolio
-
 <div align="center">
    
   <table>
-     <tr>
-        <td>   
-          A custom MVC-built portfolio showcasing:  
-          - User authentication system  
-          - Comprehensive admin dashboard  
-          - Project management (CRUD)  
-          - Image uploads  
-          - Responsive design  
-          - SEO-optimized architecture  
-          - Modular JavaScript  
-          - SVG component system
-          <h3>
-            Building digital experiences with the same care as handcrafted work.
-          </h3>
-        </td>
-       <td>
-         <img src="melting_set.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
-       </td>
-     </tr>
-  </table>
+    <tr>
+      <td>
+        <strong>Custom MVC Portfolio</strong>
+ 
+  <ul>
+  <li>Authentication</li>
+  <li>Admin dashboard</li>
+  <li>Project management (CRUD)</li>
+  <li>Media uploads</li>
+  <li>Responsive interface</li>
+  <li>SEO-ready architecture</li>
+  <li>Modular JavaScript</li>
+  <li>Reusable SVG component system</li>
+  </ul>
+  
+  <br>
+  
+  <strong>
+    Every feature serves a purpose. Every detail supports the experience.
+  </strong>
+  
+  </td>
+    <td>
+     <img src="melting_set.png" alt="Pictelle" height="45%" style="vertical-align: middle;">
+   </td>
+  </tr>
+</table>
 
 </div>
   
-***Additional templates and demonstration projects are currently in development.
+### Additional templates and demonstration projects are currently in development.
     
 ---
 
@@ -120,6 +125,21 @@ These influences naturally shape my approach to building websites—clean, balan
 
 ---
 
-# <a href="https://pictelle.fr" target="_blank">***Website***</a> 
-# <a href="https://www.linkedin.com/in/pictelle/" target="_blank">***LinkedIn***</a>
+<div align="center">
+
+#### Workshop visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=nadia-hazem&style=flat-square&color=5D7FA3)
+
+</div>
+
+---
+
+<div align="center">
+
+### [Website](https://pictelle.fr)
+
+### [LinkedIn](https://linkedin.com/in/pictelle)
+
+</div>
 
