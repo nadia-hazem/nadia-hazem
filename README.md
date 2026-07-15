@@ -2,7 +2,7 @@
   <img src="title_pictelle.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
 </p>
 
-## **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
+# **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
 Creating thoughtful, elegant websites with **WordPress** when flexibility matters, and **custom PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
@@ -18,7 +18,7 @@ Creating thoughtful, elegant websites with **WordPress** when flexibility matter
 
 ---
 
-## About
+# About
 
 > I’m Nadia, the developer behind Pictelle.  
 I craft fast, accessible, and easy-to-manage websites, blending the versatility of WordPress with custom PHP development for projects built from the ground up.
@@ -32,7 +32,7 @@ Because I believe technology should support your ideas, never hinder them.
 
 ---
 
-## My Tools
+# Tech Stack
 
 <div align="center">
  
@@ -69,7 +69,7 @@ Because I believe technology should support your ideas, never hinder them.
     
 ---
 
-## Featured Work
+# Featured Work
 
 <div align="center">
    
@@ -109,7 +109,7 @@ Because I believe technology should support your ideas, never hinder them.
 ---
 
 
-## Philosophy
+# Philosophy
 
 *To me, good code is more than just functional.  
 It should remain understandable, elegant, scalable and enjoyable to maintain.
@@ -117,7 +117,7 @@ While technology keeps evolving, thoughtful design, clean architecture, and atte
 
 ---
 
-## Beyond the Code
+# Beyond the Code
 
 Outside of development, I find inspiration in design, photography, nature, and quiet places.
 These influences naturally shape my approach to building websites—clean, balanced, and focused on what truly matters.
