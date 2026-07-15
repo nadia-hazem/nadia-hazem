@@ -36,18 +36,35 @@ Because I believe technology should support your ideas, never hinder them.
 
 <div align="center">
  
-   <table>
-    <tr>
-     <td>FRONTEND</td>
-     <td>LANGUAGES</td>
-     <td>TOOLS</td>
-    </tr>
-    <tr>
-     <td> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /> </td>
-     <td> <img src="https://skillicons.dev/icons?i=js,php,bash,mysql" /> </td>
-     <td> <img src="https://skillicons.dev/icons?i=vscode,figma,github,wordpress" /> </td>
-    </tr>
-   </table>
+<table>
+<tr>
+<td align="center">FRONTEND</td>
+<td align="center">BACKEND</td>
+<td align="center">CMS</td>
+<td align="center">WORKFLOW</td>
+</tr>
+
+<tr>
+
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=php,mysql,bash" />
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress" /><br>
+<sub>Divi</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+</td>
+
+</tr>
+</table>
       
  </div>
     
