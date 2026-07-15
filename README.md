@@ -35,37 +35,35 @@ Because I believe technology should support your ideas, never hinder them.
 # Tech Stack
 
 <div align="center">
- 
-<table>
-<tr>
-<td align="center">FRONTEND</td>
-<td align="center">BACKEND</td>
-<td align="center">CMS</td>
-<td align="center">WORKFLOW</td>
-</tr>
 
-<tr>
+FRONTEND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+BACKEND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+WORKFLOW
 
-<td>
-<img src="frontend.svg" width="180">
-</td>
+</div>
+<!--
+GitHub breaks icon groups if a line break is inserted before the non-breaking spaces.
+Keep everything on the same line.
+-->
+<div align="center">
 
-<td>
-<img src="backend.svg" width="180">
-</td>
+<img src="html.svg" width="28">
+<img src="css.svg" width="28">
+<img src="js.svg" width="28">
+<img src="bootstrap.svg" width="28">
+<img src="tailwind.svg" width="28">&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="php.svg" width="28">
+<img src="mysql.svg" width="28">
+<img src="bash.svg" width="28">&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="wordpress.svg" width="28">
+<img src="divi.svg" width="28">&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="git.svg" width="28">
+<img src="github.svg" width="28">
+<img src="vscode.svg" width="28">
+<img src="figma.svg" width="28">
 
-<td align="center">
-<img src="cms.svg" width="180">
-</td>
-
-<td>
-<img src="workflow.svg" width="180">
-</td>
-
-</tr>
-</table>
-      
- </div>
+</div>
     
 ---
 
