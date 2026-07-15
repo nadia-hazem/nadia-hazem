@@ -47,20 +47,19 @@ Because I believe technology should support your ideas, never hinder them.
 <tr>
 
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+<img src="frontend.svg" width="180">
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=php,mysql,bash" />
+<img src="backend.svg" width="180">
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=wordpress" /><br>
-<sub>Divi</sub>
+<img src="cms.svg" width="180">
 </td>
 
 <td>
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+<img src="workflow.svg" width="180">
 </td>
 
 </tr>
