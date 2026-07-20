@@ -7,7 +7,7 @@ Creating thoughtful, elegant websites with **WordPress** when flexibility matter
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
 
- ![Pictelle](/screenshot_Pictelle.png)
+ ![Pictelle](/laptop.jpg)
 
 
 + [About](#about)
