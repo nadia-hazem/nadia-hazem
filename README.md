@@ -1,14 +1,13 @@
 <p align="left">
-  <img src="title_pictelle.png" alt="Pictelle" height="40px" style="vertical-align: middle;">
+  <img src="title_pictelle.png" alt="Pictelle" wight="200px" style="vertical-align: middle;">
 </p>
 
 # **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
+
+ ![Pictelle](/preview.jpg)
+
 Creating thoughtful, elegant websites with **WordPress** when flexibility matters, and **custom PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
-
-
- ![Pictelle](/screenshot_Pictelle.png)
-
 
 + [About](#about)
 + [My tools](#my-tools)
