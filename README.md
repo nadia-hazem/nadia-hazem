@@ -4,15 +4,13 @@
 
 # **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
 
+ ![Pictelle](/laptop.jpg)
+ 
 Creating thoughtful, elegant websites with **WordPress** when flexibility matters, and **custom PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
-
- ![Pictelle](/laptop.jpg)
-
-
 + [About](#about)
-+ [My tools](#my-tools)
++ [Tech Stack](#tech-stack)
 + [Featured work](#featured-work)
 + [Philosophy](#philosophy)
 + [Beyond the code](#beyond-the-code)
@@ -110,9 +108,22 @@ Keep everything on the same line.
 
 # Philosophy
 
-*To me, good code is more than just functional.  
-It should remain understandable, elegant, scalable and enjoyable to maintain.
-While technology keeps evolving, thoughtful design, clean architecture, and attention to detail remain timeless essentials.*
+<div align="center">
+   
+<table>
+   <tr>
+      <td>   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/f507646eab0af61f8e60e231e857fdafeecf9b94/code-fun.gif" width="300"></td>
+      <td align="center">
+        <h3 align="left">
+        *To me, good code is more than just functional.  
+        It should remain understandable, elegant, scalable and enjoyable to maintain.
+        While technology keeps evolving, thoughtful design, clean architecture, and attention to detail remain timeless essentials.*
+        </h3>
+      </td>
+   </tr>
+</table>
+
+</div>
 
 ---
 
@@ -121,20 +132,9 @@ While technology keeps evolving, thoughtful design, clean architecture, and atte
 Outside of development, I find inspiration in design, photography, nature, and quiet places.
 These influences naturally shape my approach to building websites—clean, balanced, and focused on what truly matters.
 
----
-
 <div align="center">
    
-<table>
-   <tr>
-      <td>   <img src="https://github.com/nadia-hazem/nadia-hazem/blob/f507646eab0af61f8e60e231e857fdafeecf9b94/code-fun.gif" width="300"></td>
-      <td align="center">
-        <h3>
-        Building digital experiences with the same care as handcrafted work.
-        </h3>
-      </td>
-   </tr>
-</table>
+  **Building digital experiences with the same care as handcrafted work.**
 
 </div>
 
