@@ -9,6 +9,10 @@
 Creating thoughtful, elegant websites with **WordPress** when flexibility matters, and **custom PHP** solutions when a project deserves a tailor-made solution.  
 ***Clean architecture, refined interfaces, and maintainable code — with an artisan’s touch.***
 
+
+ ![Pictelle](/laptop.jpg)
+
+
 + [About](#about)
 + [My tools](#my-tools)
 + [Featured work](#featured-work)
