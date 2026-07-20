@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="title_pictelle.png" alt="Pictelle" wight="200px" style="vertical-align: middle;">
+  <img src="title_pictelle.png" alt="Pictelle" width="200px" style="vertical-align: middle;">
 </p>
 
 # **Digital Craftsmanship — Elegant websites, thoughtfully built.**  
